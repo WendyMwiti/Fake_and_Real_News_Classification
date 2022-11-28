@@ -1,3 +1,15 @@
-# Fake_and_Real_News_Classification
-An algorithm to determine if an article is fake or real
-# Authors: Dennis Kimiri, Femi Kamau, Monicah Iwagit, Teofilo Gafna, Wendy Mwiti
+# **Fake And Real News Classification**
+
+### Authors: [Dennis Kimiri](), [Femi Kamau](https://www.github.com/ctrl-Karugu), [Monicah Iwagit](), [Teofilo Gafna](), [Wendy Mwiti]()
+
+---
+
+> This project is a part of the [Data Science (DSF-FT)](https://moringaschool.com/courses/data-science-course/) Course at [Moringa School](https://moringaschool.com/). The full project description can be found [here](https://github.com/learn-co-curriculum/dsc-phase-4-project-v2-3).
+
+## Overview
+
+---
+---
+
+## 1. Business Understanding
+### Problem Statement
