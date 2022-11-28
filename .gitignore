@@ -130,3 +130,10 @@ dmypy.json
 
 # Data
 data/
+
+# VSCode
+.vscode/
+
+# Notebook
+.ipynb_checkpoints/
+other.ipynb
