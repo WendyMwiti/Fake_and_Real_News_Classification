@@ -1,6 +1,6 @@
 # **Fake And Real News Classification**
 
-### Authors: [Dennis Kimiri](), [Femi Kamau](https://www.github.com/ctrl-Karugu), [Monicah Iwagit](), [Teofilo Gafna](), [Wendy Mwiti]()
+### Authors: [Dennis Kimiri](), [Femi Kamau](https://www.github.com/ctrl-Karugu), [Monicah Iwagit](), [Teofilo Gafna](https://github.com/teofizzy), [Wendy Mwiti]()
 
 ---
 
