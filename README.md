@@ -24,10 +24,10 @@
     
 
 # Project Description:
-With the current technology, almost every individual has an access to internet and there are no strict restrictions to what one posts. 
+With the current technology, almost every individual has an access to internet and there are no restrictions to what one posts. 
 With this, people can obtain news from them and believe that they are legitimate which might not be case.
 Feeding information from the internet can affect oneself in one way or another.
-To avoid this, this project aims to analyse data using text classification with NLP to determine wether an article posted is real or not.
+To avoid this, this project aims to analyse data using text classification with NLP to determine whether an article posted is real or not.
     
 
 # Technologies Used:
