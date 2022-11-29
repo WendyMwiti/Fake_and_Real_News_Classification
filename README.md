@@ -11,13 +11,15 @@
 
 # Table of Contents: 
 * Overview
-* Business problem
-* Data understanding - the dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
-* Data cleaning: Validity, Completeness, Consistency, Uniformity
-* Exploratory data analysis
+* Business Problem
+* Data Understanding - The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+* Data Cleaning: Validity, Completeness, Consistency, Uniformity
+* Exploratory Data Analysis
 * Modeling:
     * Preprocessing techniques in NLP
     * Building models
+    * Model validation
+ * Deployment
     
     
 
