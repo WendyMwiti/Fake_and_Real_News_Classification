@@ -35,5 +35,5 @@
 
 
 ### Project Future Use:
-    Using this project one will be able to tell whether or not an article is legitimate or not which will improve on how people percieve on things.
+    Using this project one will be able to tell whether or not an article is legitimate or not which will improve on how people percieve on things. 
 
