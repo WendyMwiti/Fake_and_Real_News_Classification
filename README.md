@@ -37,7 +37,7 @@ To avoid this, this project aims to analyse data using text classification with 
 
 
 # Project Features:
-From the data set, the project focuses on the text column as the independent and subject column as the dependent variable.
+From the data set, the project focuses on the text column as the independent and category column as the dependent variable.
     
 
 
