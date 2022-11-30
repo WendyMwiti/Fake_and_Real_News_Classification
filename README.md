@@ -50,10 +50,14 @@ Using this project one will be able to tell whether or not an article is legitim
 
 ```
     ├── README.md
+    | 
+    ├── .gitignore
+    | 
     |── index.ipynb    
-    ├── ml-app.py
-    ├── api.py
-    └── models
-        ├── model.pkl
-        └── vectorizer.pkl
+    | 
+    ├── models
+    |    └── model.pkl
+    | 
+    └── demo
+         └── ml-app.py   
 ```
