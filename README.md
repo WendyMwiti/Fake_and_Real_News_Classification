@@ -36,7 +36,6 @@ To avoid this, this project aims to analyse data using text classification with 
    * Scikit-Learn
    * NLTK
    * Streamlit
-   * FastAPI
     
 
 # Project Features:
