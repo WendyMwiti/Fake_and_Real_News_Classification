@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/60213013/204645379-7197e7c4-b106-4359-b0e4-f84ad1221f00.png)
 
 
-### Authors: [Dennis Kimiri](), [Femi Kamau](https://www.github.com/ctrl-Karugu), [Monicah Iwagit](https://github.com/Okodoimonicah), [Teofilo Gafna](https://github.com/teofizzy), [Wendy Mwiti](https://github.com/WendyMwiti)
+### Authors: [Femi Kamau](https://www.github.com/ctrl-Karugu), [Monicah Iwagit](https://github.com/Okodoimonicah), [Teofilo Gafna](https://github.com/teofizzy), [Wendy Mwiti](https://github.com/WendyMwiti)
+
 
 ---
 
