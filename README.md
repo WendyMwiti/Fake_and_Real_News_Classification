@@ -46,6 +46,10 @@ From the data set, the project focuses on the text column as the independent and
 Using this project one will be able to tell whether or not an article is legitimate which will improve on how people percieve on things and situations.
 
 
+
+# Deployment:
+The project was deployed using [Streamlit](https://streamlit.io/). The link to the deployed project can be found [here](https://beast001-fake-and-real-news-classification-demoml-app-tbg7es.streamlit.app/)
+
 # Repository Structure:
 
 ```
@@ -58,6 +62,16 @@ Using this project one will be able to tell whether or not an article is legitim
     ├── models
     |    └── model.pkl
     | 
-    └── demo
-         └── ml-app.py   
+    ├── demo
+    |    ├── requirements.txt
+    |    └── ml-app.py
+    |
+    └── data_preprocessing
+         ├── cities.txt
+         ├── countries.txt
+         ├── months.txt
+         ├── names.txt
+         ├── states.txt
+         └── week.txt
+
 ```
